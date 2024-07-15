@@ -27,6 +27,3 @@
 
 ### Contacts
 Dr. Robert Endres: r.endres@imperial.ac.uk
-  
----
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
