@@ -15,13 +15,9 @@
 
 ***
 
-### Code
-- Distribution of Jacobian matrix elements
-- Parameter sampling
-- Normality assumption
-- Circular law
-- Relatioinship between network size and stability
-- Surface plots: optimal network size and diffusion parameters
+### Requirements
+In order to run the Python scripts you need: 
+-
 
 ***
 
