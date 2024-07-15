@@ -6,7 +6,7 @@
 ***
 
 ### Code organisation: 
-- `figure_5.jpynb` - tutorial
+- `figure_5.jpynb` - tutorial on how to generate circular scatter plot and corresponding kernel density estimations of eigenvalues in the complex plan with examples
 - `figure_6.jpynb` - tutorial
 - `figure_7.jpynb` - tutorial
 - `figure7_re_v5.py` - script
