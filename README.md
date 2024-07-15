@@ -1,6 +1,6 @@
 # Optimal network size for most robust Turing patterns 
 
-The following repository contains notebooks and scripts for . They were developed by Dr. Robert Endres' group. 
+The following repository contains notebooks and scripts for . They were developed by Dr. Robert Endres' group at Imperial College London. 
 
 ### Code organisation: 
 - `figure_5.jpynb` - tutorial
