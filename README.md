@@ -1,6 +1,6 @@
 # Optimal network size for most robust Turing patterns 
 
-#### The following repository contains notebooks and Python scripts used to generate figures 2-8 in the [paper](). <br>
+#### This repository contains notebooks and Python scripts used to generate figures 2-8 in the following [paper](). <br>
 #### The code was developed by Dr. Robert Endres' group at Imperial College London. 
 
 ### Code organisation: 
