@@ -2,7 +2,7 @@
 
 The following repository contains notebooks and scripts for . They were developed by Professor Robert Emdres' group. 
 
-#### Code organisation: 
+### Code organisation: 
 - `figure_5.jpynb` - tutorial
 - `figure_6.jpynb` - tutorial
 - `figure_7.jpynb` - tutorial
