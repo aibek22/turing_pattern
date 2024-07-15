@@ -1,4 +1,4 @@
-## Optimal network size for most robust Turing patterns 
+# Optimal network size for most robust Turing patterns 
 
 The following repository contains notebooks and scripts for . They were developed by Professor Robert Emdres' group. 
 
@@ -21,6 +21,11 @@ The following repository contains notebooks and scripts for . They were develope
 - Circular law
 - Relatioinship between network size and stability
 - Surface plots: optimal network size and diffusion parameters
+
+***
+
+### Contacts
+Dr. Robert Endres: r.endres@imperial.ac.uk
   
 ---
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
