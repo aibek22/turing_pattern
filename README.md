@@ -5,6 +5,12 @@ The following repository contains notebooks and scripts for . They were develope
 Code organisation: 
 - `figure_5.jpynb` - tutorial
 - `figure_6.jpynb` - tutorial
+- `figure_7.jpynb` - tutorial
+- `figure7_re_v5.py` - script
+- `figure_8.jpynb` - tutorial
+- `figure8_RE_v3.py` - script
+
+***
 
 ### Repository content
 
