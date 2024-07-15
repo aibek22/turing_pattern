@@ -7,7 +7,8 @@
 
 ### Code organisation: 
 - `figure_5.jpynb` - tutorial on how to generate circular scatter plot and corresponding kernel density estimations of eigenvalues in the complex plan with examples
-- `figure_6.jpynb` - tutorial
+- `figure_6.jpynb` - tutorial on how to generate
+  -- a) percentage of stable random matrices vs radius γ
 - `figure_7.jpynb` - tutorial
 - `figure7_re_v5.py` - script
 - `figure_8.jpynb` - tutorial
