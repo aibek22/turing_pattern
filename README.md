@@ -15,8 +15,6 @@
 
 ***
 
-### Repository content
-
 ### Code
 - Distribution of Jacobian matrix elements
 - Parameter sampling
