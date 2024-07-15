@@ -3,6 +3,8 @@
 #### This repository contains notebooks and Python scripts used to generate figures 2-8 in the following [paper](). <br>
 #### The code was developed by Dr. Robert Endres' group at Imperial College London. 
 
+***
+
 ### Code organisation: 
 - `figure_5.jpynb` - tutorial
 - `figure_6.jpynb` - tutorial
